@@ -28,7 +28,7 @@ npm install -g 插件名
 
 ```bash
 npm install -g fis-parser-less
-npm install -g fis3-postpackager-loader
+npm install fis3-postpackager-loader
 ```
 
 ### 预处理
